@@ -6,22 +6,31 @@ I enjoy working on authentication flows, session handling, and clean frontend–
 
 ---
 
-## 🚀 Featured Project — Notes App (Full Stack)
+## 🚀 Featured Projects 
+
+### Notes App (Full Stack)
 
 A full-stack Notes application demonstrating **cookie-based authentication with refresh token rotation**, per-device session handling, and clean state management.
 
-### 🔗 Backend API
-- **Stack:** Node.js, Express, MongoDB
-- **Key concepts:** HTTP-only cookies, JWT, refresh token rotation, per-device sessions
-- Repository:  
-  👉 https://github.com/vipulsawant8/notes-app-backend
+- 🔗 Backend API (Node.js, Express, MongoDB)   
+  https://github.com/vipulsawant8/notes-app-backend
 
-### 🎨 Frontend Application
-- **Stack:** React, Redux Toolkit, Vite
-- **Key concepts:** Auth-aware UI, layout-based route protection, automatic token refresh
-- Repository:  
-  👉 https://github.com/vipulsawant8/notes-app-frontend
+- 🎨 Frontend App (React, Redux Toolkit, Vite) 
+  https://github.com/vipulsawant8/notes-app-frontend
+  
+---
 
+### 📋 Kanban Board (Full Stack)
+
+A full-stack Kanban Board application built to model real-world task workflows using lists and ordered tasks.
+
+This project **reuses the same secure authentication system** as the Notes App and applies it to a more complex domain involving task movement and ordering.
+
+- 🔗 Backend API (Node.js, Express, MongoDB)  
+  https://github.com/vipulsawant8/kanban-board-backend
+
+- 🎨 Frontend App (React, Redux Toolkit, Vite)  
+  https://github.com/vipulsawant8/kanban-board-frontend
 ---
 
 ## 🛠 Tech Stack
