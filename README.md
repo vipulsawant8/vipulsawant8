@@ -15,7 +15,7 @@ A full-stack Notes application demonstrating **cookie-based authentication with 
 - 🔗 Backend API (Node.js, Express, MongoDB)   
   https://github.com/vipulsawant8/notes-app-backend
 
-- 🎨 Frontend App (React, Redux Toolkit, Vite) 
+- 🎨 Frontend App (React, Redux Toolkit, Vite)  
   https://github.com/vipulsawant8/notes-app-frontend
   
 ---
