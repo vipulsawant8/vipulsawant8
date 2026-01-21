@@ -31,6 +31,21 @@ This project **reuses the same secure authentication system** as the Notes App a
 
 - 🎨 Frontend App (React, Redux Toolkit, Vite)  
   https://github.com/vipulsawant8/kanban-board-frontend
+  
+---
+
+### 📊 Live Polls (Real-Time Full Stack)
+
+A real-time polling and voting application demonstrating **secure authentication**, **REST + WebSocket integration**, and live state synchronization across clients.
+
+This project builds on the same cookie-based authentication system used in my previous projects and introduces **real-time updates using Socket.IO**.
+
+- 🔗 Backend API (Node.js, Express, MongoDB, Socket.IO)  
+  https://github.com/vipulsawant8/live-polls-backend
+
+- 🎨 Frontend App (React, Redux Toolkit, Socket.IO)  
+  https://github.com/vipulsawant8/live-polls-frontend
+
 ---
 
 ## 🛠 Tech Stack
