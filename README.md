@@ -1,4 +1,4 @@
-## Hi there, I’m Vipul 👋
+## Hi there, I’m Vipul Sawant 👋
 
 I’m a fresher developer currently focused on learning backend development by building full-stack projects.
 
