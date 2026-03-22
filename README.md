@@ -13,10 +13,10 @@ I enjoy working on authentication flows, session handling, and clean frontend–
 A full-stack Notes application demonstrating **cookie-based authentication with refresh token rotation**, per-device session handling, and clean state management.
 
 - 🔗 Backend API (Node.js, Express, MongoDB)   
-  https://github.com/vipulsawant8/notes-app-backend
+  https://github.com/vipulsawant8/notes_app_backend
 
 - 🎨 Frontend App (React, Redux Toolkit, Vite)  
-  https://github.com/vipulsawant8/notes-app-frontend
+  https://github.com/vipulsawant8/notes_app_frontend
   
 ---
 
@@ -27,10 +27,10 @@ A full-stack Kanban Board application built to model real-world task workflows u
 This project **reuses the same secure authentication system** as the Notes App and applies it to a more complex domain involving task movement and ordering.
 
 - 🔗 Backend API (Node.js, Express, MongoDB)  
-  https://github.com/vipulsawant8/kanban-board-backend
+  https://github.com/vipulsawant8/kanban_board_backend
 
 - 🎨 Frontend App (React, Redux Toolkit, Vite)  
-  https://github.com/vipulsawant8/kanban-board-frontend
+  https://github.com/vipulsawant8/kanban_board_frontend
   
 ---
 
@@ -41,10 +41,10 @@ A real-time polling and voting application demonstrating **secure authentication
 This project builds on the same cookie-based authentication system used in my previous projects and introduces **real-time updates using Socket.IO**.
 
 - 🔗 Backend API (Node.js, Express, MongoDB, Socket.IO)  
-  https://github.com/vipulsawant8/live-polls-backend
+  https://github.com/vipulsawant8/live_polls_backend
 
 - 🎨 Frontend App (React, Redux Toolkit, Socket.IO)  
-  https://github.com/vipulsawant8/live-polls-frontend
+  https://github.com/vipulsawant8/live_polls_frontend
 
 ---
 
